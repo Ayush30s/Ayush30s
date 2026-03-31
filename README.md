@@ -3,6 +3,7 @@
 
 
 ## 🌐 Socials:
+[![Portfolio}(https://portfolio-ivory-two-82.vercel.app)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-srivastav-58635b280/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ayush_Sri_30?t=2p4RJ_iiLIVbOszM0RhdgQ&s=09) 
 
 # 💻 Tech Stack:
