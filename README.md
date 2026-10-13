@@ -1,8 +1,8 @@
 <div align="center">
 
-# Ayush Srivastav
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Ayush%20Srivastav&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20AI%20Agents%20%C2%B7%20Real-Time%20Systems&descAlignY=60&descSize=20" width="100%" alt="Ayush Srivastav"/>
 
-### Software Engineer · Backend Systems · AI Agents · Real-Time Applications
+<a href="https://portfolio-ayush-srivastav.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=780&height=45&lines=Software+Engineer+%7C+Backend+%26+AI;Building+LLM+agents+with+LangGraph+%26+RAG;Designing+real-time+systems+that+scale+horizontally;Idempotent+writes.+Safe+SQL.+Simple+solutions." alt="Typing animation" /></a>
 
 **TypeScript · NestJS · Python · FastAPI · PostgreSQL · Redis · LangGraph · AWS**
 
@@ -189,15 +189,42 @@ CGPA: **8.0 / 10** · DSA · OS · Computer Networks · DBMS
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush30s&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=7C4DFF&center=true&vCenter=true&width=560&height=30&lines=Numbers+from+real+code+shipped+to+production;Commits+%7C+Streaks+%7C+Languages+%7C+Trophies" alt="Analytics tagline" />
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush30s&theme=dracula&hide_border=false)
+<br/><br/>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush30s&theme=dracula&hide_border=false&layout=compact)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img height="195" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ayush30s&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00E5FF&icon_color=7C4DFF&text_color=C9D1D9&ring_color=00E5FF&border_color=30363D&border_radius=12" />
+    </td>
+    <td align="center" width="50%">
+      <img height="195" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush30s&layout=donut&langs_count=8&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=30363D&border_radius=12" />
+    </td>
+  </tr>
+</table>
+
+<img width="98%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=ayush30s&background=0D1117&ring=00E5FF&fire=FF6B35&currStreakNum=00E5FF&currStreakLabel=7C4DFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&border=30363D&stroke=30363D&border_radius=12" />
+
+<br/><br/>
+
+<img width="98%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ayush30s&bg_color=0D1117&color=00E5FF&line=7C4DFF&point=FFFFFF&area=true&area_color=7C4DFF&hide_border=true&custom_title=Contribution%20Graph&title_color=00E5FF" />
+
+<br/>
+
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=ayush30s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush30s/ayush30s/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush30s/ayush30s/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ayush30s/ayush30s/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -217,5 +244,7 @@ I'm open to **backend, full-stack, and AI engineering** roles. If you're buildin
 <br/>
 
 [![](https://visitcount.itsvg.in/api?id=ayush30s&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="" />
 
 </div>
