@@ -1,10 +1,18 @@
 <div align="center">
 
 # Ayush Srivastav
-### Full-Stack Software Developer · TypeScript · NestJS · Node.js · React.js · AWS
+
+### Software Engineer · Backend Systems · AI Agents · Real-Time Applications
+
+**TypeScript · NestJS · Python · FastAPI · PostgreSQL · Redis · LangGraph · AWS**
+
+*I build reliable backends, real-time systems, and AI products, and I prefer simple solutions to complex problems.*
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ayush-srivastav.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-srivastav-58635b280/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsri302003@gmail.com)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ayush_Sri_30)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayush30s)
 
@@ -14,91 +22,155 @@
 
 ## 👋 About Me
 
-Full-Stack Software Developer with **1+ year of experience** building production-grade web applications, REST APIs, microservices, real-time systems, and AI-powered backend workflows.
+Software engineer with **~2 years of experience** building web products, backend services, distributed workflows, and AI-powered applications. I care about **correctness, reliability, and maintainability**, and I enjoy problems where concurrency, scale, or safety actually matter.
 
-- 🔭 Currently building a **Gym Management Platform** — NestJS microservices with AI fitness agent, RAG, pgvector, real-time WebSockets, and AWS deployment
-- 💼 Working at **Technobren Infotech Pvt. Ltd.** on an OTT streaming platform (Artipedia)
-- 🤖 Exploring **LangChain, LangGraph, RAG pipelines**, and AI agent workflows
-- 🏆 Solved **500+ DSA problems** on LeetCode, GFG, and Coding Ninjas · 2⭐ on LeetCode & CodeChef · Grandmaster Level 7 on Coding Ninjas
-- 📍 Based in Jaunpur, Uttar Pradesh, India
+- 🤖 **Now:** building an **AI Sales Assistant** and a **Real-Time Chat System** at Sevitsil Solutions
+- 🏋️ **Side project:** a **Gym Management Platform** with NestJS microservices, an AI fitness agent, RAG, and pgvector
+- 🔭 **Exploring:** LangGraph agent workflows, hybrid retrieval, and safe SQL generation
+- 🏆 **500+ DSA problems** solved across LeetCode, GeeksforGeeks, and Coding Ninjas · 2⭐ on LeetCode and CodeChef · Grandmaster Level 7 on Coding Ninjas
+- 📍 Based in Jaunpur, Uttar Pradesh, India · open to opportunities
+
+---
+
+## ⚡ At a Glance
+
+| | |
+|---|---|
+| **Focus** | Backend systems · AI & retrieval · Real-time applications |
+| **Experience** | ~2 years across 3 companies |
+| **Core stack** | TypeScript, NestJS, Python, FastAPI, PostgreSQL, Redis |
+| **AI stack** | LangChain, LangGraph, RAG, pgvector, hybrid search (BM25 + vectors) |
+| **Cloud** | AWS (EC2, S3, RDS, CloudFront, IAM), GCP, Docker, GitHub Actions |
+| **Education** | BCA, 8.0/10 CGPA |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Languages**
 
-**Backend**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend & Architecture**
+
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Databases & ORM**
+**Data & Distributed Systems**
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Real-Time Systems**
 
-**AI & RAG**
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
+![SSE](https://img.shields.io/badge/Server--Sent%20Events-1f6feb?style=for-the-badge)
+
+**AI & Retrieval**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & Delivery**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### Full-Stack Developer · Technobren Infotech Pvt. Ltd. *(July 2025 – Present)*
-**Artipedia** — OTT Streaming Platform · NestJS · PostgreSQL · Redis · React.js · Next.js · AWS · HLS/M3U8
-- Built scalable NestJS backend with Prisma ORM and AWS RDS, including relational data models, migrations, and optimized queries
-- Engineered video analytics workflows — watch progress, completion rate, engagement tracking, and auto-playlist triggers
-- Implemented HLS/M3U8 adaptive streaming via AWS S3 and CloudFront CDN
-- Integrated Redis caching, Pub/Sub, and managed AWS infrastructure (S3, CloudFront, RDS, EC2, IAM)
+### Full-Stack Developer · Sevitsil Solutions
+*May 2026 – Present*
 
-**Harrison International** — Supply Chain & Distribution System · React.js · Redux Toolkit · Tailwind CSS
-- Built real-time dashboards for enterprise product lifecycle tracking from manufacturing to delivery
+#### 🤖 AI Sales Assistant
+`Python` `FastAPI` `LangChain` `LangGraph` `PostgreSQL` `pgvector` `Redis`
 
-### React.js Intern · Tetra Information Services Pvt. Ltd. *(Nov 2024 – May 2025)*
-**ZuHaus.org** — German Property Rental Platform · React.js · Redux · NestJS · PostgreSQL
-- Developed modular React.js components, reusable UI flows, and optimized API integrations
-- Implemented pagination, filtering, search, and role-based access for a property listing system
+- Built a **privacy-focused assistant** that turns natural-language questions into ERP data queries, using validated SQL generation, read-only access, and **hybrid BM25 + vector retrieval merged with Reciprocal Rank Fusion**.
+- Structured a **LangGraph workflow** for intent and entity extraction, follow-up rewriting, multi-part questions, confidence-based routing, validation, and fallback paths.
+- Added **defense-in-depth security**: SQL AST validation, table allow-lists, query timeouts, JWT authentication, Redis rate limiting, and admin-gated ingestion.
+
+#### 💬 Real-Time Chat System
+`NestJS` `TypeScript` `Socket.IO` `Redis` `PostgreSQL` `Prisma` `SSE`
+
+- Built a messaging backend for **one-to-one and group conversations** with receipts, reactions, replies, pins, presence, and typing indicators.
+- Designed **safer write paths** using idempotency keys, database uniqueness constraints, versioning, and conditional updates to handle duplicate requests and concurrent edits.
+- Used **Redis Pub/Sub** for cross-instance event fan-out and **delta-based sync** for reconnect recovery. The system scales horizontally and stays stateless, with no sticky sessions.
+
+---
+
+### Full-Stack Developer · Technobren Infotech Pvt. Ltd.
+*Apr 2025 – May 2026*
+
+#### 🎬 Artify Group (Artipedia): OTT Streaming Platform
+`NestJS` `PostgreSQL` `Prisma` `Redis` `React` `Next.js` `AWS` `HLS/M3U8`
+
+- Developed backend services for **content, subscriptions, users, role-based access, and schema migrations**, using Prisma query analysis and indexing to improve data access.
+- Implemented **HLS/M3U8 streaming workflows** on AWS S3 and CloudFront, including playback progress, completion tracking, engagement analytics, and playlist handling.
+
+#### 🏋️ Gym Management Platform: Microservices
+`NestJS` `TypeScript` `PostgreSQL` `Prisma` `TCP` `AWS EC2` `S3`
+
+- Structured an **API gateway with separate auth, user, and gym services**, using NestJS TCP messaging and separate Prisma-backed databases to keep responsibilities isolated.
+- Added a **gateway-level circuit breaker** for downstream calls, deployed services on **EC2 with PM2**, and integrated **S3** for image uploads.
+
+#### 📦 Harrison International: Supply Chain & Distribution System
+`React.js` `Redux Toolkit` `Tailwind CSS`
+
+- Built reusable React components and **operational dashboards** for product lifecycle visibility across manufacturing and distribution workflows.
+
+---
+
+### React.js Intern · Tetra Information Services Pvt. Ltd. *(Remote)*
+*Oct 2024 – Apr 2025*
+
+#### 🏠 ZuHaus.org: German Property Rental Platform
+`React.js` `Redux Thunk` `Redux Persist` `NestJS` `PostgreSQL`
+
+- Developed reusable UI components and property-discovery workflows with **pagination, filtering, search, persisted state, and role-based access flows**.
 
 ---
 
 ## 🚀 Featured Project
 
 ### 🏋️ Gym Management Platform *(2025 – Present)*
+
 > NestJS Monorepo · TypeScript · TCP/Redis Transport · Socket.IO · Prisma · PostgreSQL · pgvector · LangChain · LangGraph · OpenAI · AWS · PM2 · GitHub Actions
 
-- Designed a NestJS monorepo with **7 independently deployable microservices**: API Gateway, Auth, User, Gym, Product, Realtime, and AI Service
-- Built **LangGraph-based AI fitness agent** for intent classification, RAG workout planning, injury-safety checks, and nutrition recommendations
-- Implemented **semantic search** with OpenAI Embeddings, pgvector, document chunking, and cosine similarity retrieval
-- Multi-node real-time broadcasting with Socket.IO and Redis Adapter
-- Production patterns: circuit breakers, rate limiting, Helmet, JWT, RBAC, Swagger docs, CI/CD with GitHub Actions
+- Designed a NestJS monorepo with **7 independently deployable microservices**: API Gateway, Auth, User, Gym, Product, Realtime, and AI Service.
+- Built a **LangGraph-based AI fitness agent** for intent classification, RAG workout planning, injury-safety checks, and nutrition recommendations.
+- Implemented **semantic search** with OpenAI embeddings, pgvector, document chunking, and cosine similarity retrieval.
+- Enabled **multi-node real-time broadcasting** with Socket.IO and the Redis adapter.
+- Applied production patterns: **circuit breakers, rate limiting, Helmet, JWT, RBAC, Swagger docs, and CI/CD with GitHub Actions**.
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Engineering Principles
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ayush30s&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayush30s&theme=dracula&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush30s&theme=dracula&hide_border=false&layout=compact)
-
-</div>
+- **Correctness first:** idempotent writes, constraints at the database level, and conditional updates, so bugs are caught by design rather than by luck.
+- **Safe by default:** read-only access, allow-lists, validation layers, and rate limits around anything that touches an LLM or user input.
+- **Scale without drama:** stateless services, Pub/Sub fan-out, and recoverable sync instead of fragile sticky sessions.
+- **Simple over clever:** the least complex solution that reliably solves the problem.
 
 ---
 
@@ -109,10 +181,41 @@ CGPA: **8.0 / 10** · DSA · OS · Computer Networks · DBMS
 
 ---
 
+## 🧩 Problem Solving
+
+- **500+** data structures and algorithms problems solved across **LeetCode, GeeksforGeeks, and Coding Ninjas**
+- Strong practice in arrays, trees, graphs, and dynamic programming
+- 2⭐ on LeetCode and CodeChef · Grandmaster Level 7 on Coding Ninjas
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=ayush30s&icon=8&color=0)](https://visitcount.itsvg.in)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush30s&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
-*ayushsri302003@gmail.com · +91 9648829728*
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush30s&theme=dracula&hide_border=false)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush30s&theme=dracula&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm open to **backend, full-stack, and AI engineering** roles. If you're building something with real-time systems, distributed workflows, or LLM-powered products, I'd love to talk.
+
+<div align="center">
+
+📧 **ayushsri302003@gmail.com** · 📱 **+91 9648829728**
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ayush-srivastav.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-srivastav-58635b280/)
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=ayush30s&icon=8&color=0)](https://visitcount.itsvg.in)
 
 </div>
